@@ -1,0 +1,8 @@
+named_locations:
+  ros__parameters:
+    file: ~/.ros/locations.yaml
+    labels: [start, entrance]
+    frame_id: map
+    base_frame: base_link
+    max_tf_age_sec: 1.0
+    replace_existing: false
